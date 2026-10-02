@@ -1,6 +1,6 @@
 # AdGuard DNS Helper
 
-I created this because I found the official setup confusing. Instead of repeating the same manual steps and guesswork, I wanted a small script that makes installing and running AdGuard DNS CLI locally much simpler.
+I created this because I found the official setup confusing. Instead of repeating the same manual steps and guesswork, I wanted a small script that makes installing and running AdGuard DNS CLI locally much simpler. I created this for me and it works for me. But I haven't tested it on other systems. Feel free to use it at your own risk.
 
 ## What it does
 
