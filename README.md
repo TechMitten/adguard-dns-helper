@@ -1,6 +1,6 @@
 # AdGuard DNS Helper
 
-A small Linux setup script to install and run AdGuard DNS CLI as a local DNS resolver.
+I created this because I found the official setup confusing. Instead of repeating the same manual steps and guesswork, I wanted a small script that makes installing and running AdGuard DNS CLI locally much simpler.
 
 ## What it does
 
